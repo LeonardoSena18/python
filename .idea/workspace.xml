@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6551f6-0c33-4b7e-b5a9-d9cbc72a727d" name="Changes" comment="" />
+    <list default="true" id="4d6551f6-0c33-4b7e-b5a9-d9cbc72a727d" name="Changes" comment="conversor de bases numericas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LeonardoSena18"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeonardoSena18/python",
+    "accountId": "f15852e6-f789-43c9-900d-28ff98345799"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4,
   "fromUser": false
@@ -22,10 +37,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -43,9 +65,48 @@
       <option name="presentableId" value="Default" />
       <updated>1791586280347</updated>
     </task>
+    <task id="LOCAL-00001" summary="transformar numeros em binario">
+      <option name="closed" value="true" />
+      <created>1791586363627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791586363627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="primeiro commit">
+      <option name="closed" value="true" />
+      <created>1791586431832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791586431832</updated>
+    </task>
+    <task id="LOCAL-00003" summary="primeiro commit">
+      <option name="closed" value="true" />
+      <created>1791586542327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791586542327</updated>
+    </task>
+    <task id="LOCAL-00004" summary="conversor de bases numericas">
+      <option name="closed" value="true" />
+      <created>1791586987108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791586987109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="transformar numeros em binario" />
+    <MESSAGE value="primeiro commit" />
+    <MESSAGE value="conversor de bases numericas" />
+    <option name="LAST_COMMIT_MESSAGE" value="conversor de bases numericas" />
   </component>
 </project>
